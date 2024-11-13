@@ -1,0 +1,33 @@
+
+.wrapper{
+	background-color: #ffcccc;
+	height: 600px;
+	width: 900px;
+}
+
+
+.norm{
+	width: 100px;
+	height: 100px;
+	background-color: #e6ccff;
+}
+
+
+.fixed{
+		width: 60px;
+		height: 200px;
+		background-color: #ffb366;
+		position: fixed;
+		left: 0px;
+		top: 90px;
+}	
+
+
+.relative{
+		width: 100px;
+		height: 100px;
+		background-color: #ffffcc;
+		position: relative;
+		top: 200px;
+		left: 400px;
+}
